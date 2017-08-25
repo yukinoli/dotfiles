@@ -1,0 +1,57 @@
+! transparent terminal
+URxvt*depth: 32
+URxvt*background: rgba:0003/0012/0025/c800  
+
+! internal border
+URxvt.internalBorder: 40 
+
+! fading when unfocus
+URxvt.fading: 40
+
+! underline cursor
+URxvt.cursorUnderline: true
+
+! no scrollbar
+URxvt*scrollBar : 	false
+
+! fonts
+URxvt*font : 		xft:hack-11:antialias=true
+Xft.antialias: 		true
+
+! special
+*.foreground:   #fde6d4
+! *.background: 	#0e1216
+*.cursorColor:  #fde6d4
+
+! black
+*.color0:       #1c62af
+*.color8:       #1c62af
+
+! red
+*.color1:       #7c6860
+*.color9:       #7c6860
+
+! green
+*.color2:       #458bcc
+*.color10:      #458bcc
+
+! yellow
+*.color3:       #b7746b
+*.color11:      #b7746b
+
+! blue
+*.color4:       #799eca
+*.color12:      #799eca
+
+! magenta
+*.color5:       #b387e7
+*.color13:      #b387e7
+
+! cyan
+*.color6:       #6e498e
+*.color14:      #6e498e
+
+! white
+*.color7:       #fde6d4
+*.color15:      #fde6d4
+
