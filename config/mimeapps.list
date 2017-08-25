@@ -1,0 +1,6 @@
+[Added Associations]
+text/plain=libreoffice-writer.desktop;
+video/x-matroska=mpv.desktop;
+image/gif=feh.desktop;
+image/jpeg=feh.desktop;
+image/png=feh.desktop;

@@ -1,0 +1,19 @@
+The LaTeX menu
+Writer4LaTeX offers the top level menu LaTeX in Writer
+        with the following commands.
+
+Run LaTeX...
+Convert the document to LaTeX and display the result in an external viewer.
+        You can configure the export in the dialog.
+Run LaTeX and display the result
+
+Run LaTeX directly
+Convert the document to LaTeX and display the result in an external viewer.
+        This command does not display the configuration dialog, but reuses the last settings.
+Run LaTeX directly and display the result
+
+View Log files
+In case of any problems in the conversion process, you can view the log files created by
+        LaTeX, MakeIndex and BibTeX here
+View log files created by LaTeX, MakeIndex and BibTeX
+

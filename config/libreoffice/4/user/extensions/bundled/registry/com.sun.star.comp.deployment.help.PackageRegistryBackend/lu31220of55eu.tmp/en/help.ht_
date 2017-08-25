@@ -1,0 +1,16 @@
+3e org.openoffice.da.writer4latex.oxt%3ABibliographyNatbibOptions 30 Enter any options to the package natbib.sty here
+3a org.openoffice.da.writer4latex.oxt%3ABibliographyUseNatbib 3b Check this to use the package natbib.sty for your citations
+40 org.openoffice.da.writer4latex.oxt%3ABibliographyBibTeXDirButton 42 Click to select the path to the folder containing the BibTeX files
+47 org.openoffice.da.writer4latex.oxt%3ABibliographyConvertZoteroCitations 2f Check this to convert Zotero citations to LaTeX
+47 org.openoffice.da.writer4latex.oxt%3ABibliographyUseExternalBibTeXFiles 3d Check this if your citations refer to external BibTeX file(s)
+49 org.openoffice.da.writer4latex.oxt%3ABibliographyIncludeOriginalCitations 61 Check this to include the citations inserted by Zotero or JabRef as comments in the LaTeX source.
+47 org.openoffice.da.writer4latex.oxt%3ABibliographyConvertJabRefCitations 2f Check this to convert JabRef citations to LaTeX
+3f org.openoffice.da.writer4latex.oxt%3ABibliographyBibTeXLocation 31 Select the type of location for your BibTeX files
+3a org.openoffice.da.writer4latex.oxt%3ABibliographyBibTeXDir 38 Enter the path to the folder containing the BibTeX files
+28 org.openoffice.da.writer4latex%3AViewLog 35 View log files created by LaTeX, MakeIndex and BibTeX
+30 org.openoffice.da.writer4latex%3AProcessDocument 20 Run LaTeX and display the result
+30 org.openoffice.da.writer4latex%3AProcessDirectly 29 Run LaTeX directly and display the result
+39 org.openoffice.da.writer4latex.oxt%3AConfigurationOptions 49 Fill out any additional options here, using %s to represent the file name
+3c org.openoffice.da.writer4latex.oxt%3AConfigurationExecutable 4c Type the full path to the executable here or find it using the Browse button
+3c org.openoffice.da.writer4latex.oxt%3AConfigurationAutoButton 51 Click here to let Writer4LaTeX configure your external applications automatically
+3d org.openoffice.da.writer4latex.oxt%3AConfigurationApplication 3a Select the external application you wish to configure here

@@ -1,0 +1,47 @@
+
+Configuration of applications
+Before you can use Writer4LaTeX you must configure it to use your LaTeX
+        distribution as well as viewers for the different output formats.
+
+        	Select Tools - Options - %PRODUCTNAME Writer - Writer4LaTeX - Applications
+
+        
+
+Automatic Configuration
+If you click this button, Writer4LaTeX will try to locate the external programs
+		and configure them. You will be presented with a short report of the results. Any applications that Writer4LaTeX cannot find for
+		you must be configured manually.
+Click here to let Writer4LaTeX configure your external applications automatically
+
+Application
+Select the external application you wish to configure in the list.
+The available applications are:
+PdfLaTeX: The pdflatex executable (used if you select PDF as your backend format)
+
+LaTeX: The latex executable (used for other backend formats)
+
+Dvips: The DVI to PostScript converter dvips (used if you select PostScript as your backend format)
+
+BibTeX: The bibtex executable (used if your document contains a bibliography)
+
+MakeIndex: The makeindex executable (used if your document contains an alphabetical index)
+
+DVI Viewer: Application to view DVI files
+
+PDF Viewer: Application to view PDF files
+
+PostScript Viewer: Application to view PostScript files
+
+
+Select the external application you wish to configure here
+
+Executable
+Type the full path to the executable or click Browse to find
+		the executable in your file system
+Type the full path to the executable here or find it using the Browse button
+
+Options
+Fill out any additional options here. Often you will only need the file name,
+		which is denoted %s.
+Fill out any additional options here, using %s to represent the file name
+

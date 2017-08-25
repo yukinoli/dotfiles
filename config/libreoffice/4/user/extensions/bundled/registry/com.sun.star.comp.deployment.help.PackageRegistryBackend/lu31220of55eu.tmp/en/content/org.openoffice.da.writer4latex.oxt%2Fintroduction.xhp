@@ -1,0 +1,32 @@
+Introduction to Writer4LaTeX
+The purpose of the Writer4LaTeX extension is to turn Writer into a frontend for LaTeX.
+        By installing Writer4LaTeX you will thus be available to author well-structured LaTeX documents using (almost) the full power of
+        %PRODUCTNAME Writer.
+		The functionality of %PRODUCTNAME Writer with Writer4LaTeX can be compared to the application
+		LyX.
+		
+Authoring LaTeX files with Writer4LaTeX
+You can use Writer4LaTeX in two different ways
+        
+You can prepare your documents with Writer as you usually do,
+        		keeping a few
+        		guidelines in mind.
+        		You can then invoke Writer4LaTeX to convert your document into LaTeX, process the LaTeX document and display the final result. You are free to create either  a LaTeX document that preserves as much of your formatting as possible – or create a clean LaTeX document that will resemble a LaTeX document created by hand.
+        		
+
+You can use some special
+        		Writer templates
+        		provided with Writer4LaTeX to
+        		create your documents. Using the styles supported by these templates, you can easily create standard LaTeX documents
+        		using the opportunities of standard LaTeX document classes.
+        		
+For this initial version, templates for the standard LaTeX classes article
+		        are provided. More templates will be added later (report, book, beamer...), and you can also add your own templates.
+		        
+
+
+Before you start
+Before you can use Writer4LaTeX, you need to
+        configure it.
+        This requires that you have installed certain software on your system.
+

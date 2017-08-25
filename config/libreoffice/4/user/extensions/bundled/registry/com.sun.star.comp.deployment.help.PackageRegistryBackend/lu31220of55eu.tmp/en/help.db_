@@ -1,0 +1,27 @@
+2f org.openoffice.da.writer4latex.oxt%2Fimport.xhp 42 -org.openoffice.da.writer4latex.oxt/import.xhphelp.jar
+TeX import
+32 org.openoffice.da.writer4latex.oxt%2Ftemplates.xhp 4e 0org.openoffice.da.writer4latex.oxt/templates.xhphelp.jarUsing the templates
+35 org.openoffice.da.writer4latex.oxt%2Fbibliography.xhp 4a 3org.openoffice.da.writer4latex.oxt/bibliography.xhphelp.jarBibliography
+37 org.openoffice.da.writer4latex.oxt%3ABibliographyDialog 60 Iorg.openoffice.da.writer4latex.oxt/bibliography.xhp#bm_bibliographydialoghelp.jarBibliography
+47 org.openoffice.da.writer4latex.oxt%3ABibliographyUseExternalBibTeXFiles 64 Morg.openoffice.da.writer4latex.oxt/bibliography.xhp#bm_useexternalbibtexfileshelp.jarBibliography
+47 org.openoffice.da.writer4latex.oxt%3ABibliographyConvertZoteroCitations 64 Morg.openoffice.da.writer4latex.oxt/bibliography.xhp#bm_convertzoterocitationshelp.jarBibliography
+47 org.openoffice.da.writer4latex.oxt%3ABibliographyConvertJabRefCitations 64 Morg.openoffice.da.writer4latex.oxt/bibliography.xhp#bm_convertjabrefcitationshelp.jarBibliography
+49 org.openoffice.da.writer4latex.oxt%3ABibliographyIncludeOriginalCitations 66 Oorg.openoffice.da.writer4latex.oxt/bibliography.xhp#bm_includeoriginalcitationshelp.jarBibliography
+3f org.openoffice.da.writer4latex.oxt%3ABibliographyBibTeXLocation 5c Eorg.openoffice.da.writer4latex.oxt/bibliography.xhp#bm_bibtexlocationhelp.jarBibliography
+3a org.openoffice.da.writer4latex.oxt%3ABibliographyBibTeXDir 57 @org.openoffice.da.writer4latex.oxt/bibliography.xhp#bm_bibtexdirhelp.jarBibliography
+40 org.openoffice.da.writer4latex.oxt%3ABibliographyBibTeXDirButton 5d Forg.openoffice.da.writer4latex.oxt/bibliography.xhp#bm_bibtexdirbuttonhelp.jarBibliography
+3a org.openoffice.da.writer4latex.oxt%3ABibliographyUseNatbib 57 @org.openoffice.da.writer4latex.oxt/bibliography.xhp#bm_usenatbibhelp.jarBibliography
+3e org.openoffice.da.writer4latex.oxt%3ABibliographyNatbibOptions 5b Dorg.openoffice.da.writer4latex.oxt/bibliography.xhp#bm_natbiboptionshelp.jarBibliography
+33 org.openoffice.da.writer4latex.oxt%2Fguidelines.xhp 46 1org.openoffice.da.writer4latex.oxt/guidelines.xhphelp.jar
+Guidelines
+2d org.openoffice.da.writer4latex.oxt%2Fmenu.xhp 44 +org.openoffice.da.writer4latex.oxt/menu.xhphelp.jarThe LaTeX menu
+30 org.openoffice.da.writer4latex%3AProcessDocument 57 >org.openoffice.da.writer4latex.oxt/menu.xhp#bm_processdocumenthelp.jarThe LaTeX menu
+30 org.openoffice.da.writer4latex%3AProcessDirectly 57 >org.openoffice.da.writer4latex.oxt/menu.xhp#bm_processdirectlyhelp.jarThe LaTeX menu
+28 org.openoffice.da.writer4latex%3AViewLog 4f 6org.openoffice.da.writer4latex.oxt/menu.xhp#bm_viewloghelp.jarThe LaTeX menu
+35 org.openoffice.da.writer4latex.oxt%2Fintroduction.xhp 4a 3org.openoffice.da.writer4latex.oxt/introduction.xhphelp.jarIntroduction
+35 org.openoffice.da.writer4latex.oxt%2Fapplications.xhp 4a 3org.openoffice.da.writer4latex.oxt/applications.xhphelp.jarApplications
+38 org.openoffice.da.writer4latex.oxt%3AConfigurationDialog 61 Jorg.openoffice.da.writer4latex.oxt/applications.xhp#bm_configurationdialoghelp.jarApplications
+3c org.openoffice.da.writer4latex.oxt%3AConfigurationAutoButton 65 Norg.openoffice.da.writer4latex.oxt/applications.xhp#bm_configurationautobuttonhelp.jarApplications
+3d org.openoffice.da.writer4latex.oxt%3AConfigurationApplication 66 Oorg.openoffice.da.writer4latex.oxt/applications.xhp#bm_configurationapplicationhelp.jarApplications
+3c org.openoffice.da.writer4latex.oxt%3AConfigurationExecutable 65 Norg.openoffice.da.writer4latex.oxt/applications.xhp#bm_configurationexecutablehelp.jarApplications
+39 org.openoffice.da.writer4latex.oxt%3AConfigurationOptions 62 Korg.openoffice.da.writer4latex.oxt/applications.xhp#bm_configurationoptionshelp.jarApplications
