@@ -15,7 +15,7 @@ URxvt.cursorUnderline: true
 URxvt*scrollBar : 	false
 
 ! fonts
-URxvt*font : 		xft:Source Code Pro Medium-12:antialias=true
+URxvt*font : 		xft:Hack-11:antialias=true
 URxvt*letterSpace : 	-1
 Xft.antialias: 		true
 
