@@ -1,6 +1,6 @@
 ! transparent terminal
 URxvt*depth: 32
-URxvt*background: rgba:0003/0012/0025/c800  
+! URxvt*background: rgba:0003/0012/0025/c800  
 
 ! internal border
 URxvt.internalBorder: 40 
@@ -15,12 +15,13 @@ URxvt.cursorUnderline: true
 URxvt*scrollBar : 	false
 
 ! fonts
-URxvt*font : 		xft:hack-11:antialias=true
+URxvt*font : 		xft:Source Code Pro Medium-12:antialias=true
+URxvt*letterSpace : 	-1
 Xft.antialias: 		true
 
 ! special
 *.foreground:   #fde6d4
-! *.background: 	#0e1216
+*.background: 	#0e1216
 *.cursorColor:  #fde6d4
 
 ! black
